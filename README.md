@@ -14,6 +14,8 @@
 
 [9](https://chat.getloli.com/room/@tywa?title=a%20simple%20title)
 
+[10](https://gzcmcn.github.io/chat-room/room/@tywa?title=a%20simple%20title)
+
 ## Usage
 
 ### Install
