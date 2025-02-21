@@ -10,6 +10,10 @@
 
 [7](https://count.getloli.com/@tywa？name=tywa&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+[8](https://count.getloli.com/@tywa?name=tywa&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
+
+[9](https://chat.getloli.com/room/@tywa?title=a%20simple%20title)
+
 ## Usage
 
 ### Install
