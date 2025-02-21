@@ -8,6 +8,8 @@
 
 [Demo](https://chat.getloli.com/room/@demo)
 
+[7](https://count.getloli.com/@tywa？name=tywa&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 ## Usage
 
 ### Install
